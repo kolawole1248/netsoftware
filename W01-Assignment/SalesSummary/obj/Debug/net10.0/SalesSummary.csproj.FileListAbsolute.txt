@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\bin\Debug\net10.0\SalesSummary.exe
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\bin\Debug\net10.0\SalesSummary.deps.json
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\bin\Debug\net10.0\SalesSummary.runtimeconfig.json
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\bin\Debug\net10.0\SalesSummary.dll
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\bin\Debug\net10.0\SalesSummary.pdb
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\obj\Debug\net10.0\SalesSummary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\obj\Debug\net10.0\SalesSummary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\obj\Debug\net10.0\SalesSummary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\obj\Debug\net10.0\SalesSummary.AssemblyInfo.cs
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\obj\Debug\net10.0\SalesSummary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\obj\Debug\net10.0\SalesSum.411DF4F1.Up2Date
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\obj\Debug\net10.0\SalesSummary.dll
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\obj\Debug\net10.0\refint\SalesSummary.dll
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\obj\Debug\net10.0\SalesSummary.pdb
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\obj\Debug\net10.0\SalesSummary.genruntimeconfig.cache
+C:\Users\HP\Desktop\netsoftware\W01-Assignment\SalesSummary\obj\Debug\net10.0\ref\SalesSummary.dll
